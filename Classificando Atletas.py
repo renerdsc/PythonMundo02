@@ -13,5 +13,4 @@ elif idade <= 25:
     print('Atleta "SENIOR"')
 elif idade > 25:
     print('Atleta "MASTER"')
-elif idade == 0:
-    print('Opção invalida')
+
