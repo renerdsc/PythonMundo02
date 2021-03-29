@@ -1,0 +1,17 @@
+#i = int(input('INICIO'))
+#f = int(input('FIM'))
+#p = int(input('PASSO'))
+#for c in range(i, f, p):
+    #print(c)
+#print('FIM')
+
+#for c in range(0,10):
+    #n = int(input('Digite uma valor:'))
+#print('FIM')"""
+
+s = 0
+for c in range(0, 4):
+    n = int(input('Digite um valor'))
+    s += n
+print('O somatório de todos os valores foi {}'.format(s))
+print()
